@@ -1,4 +1,4 @@
 # rubix-by
 
 ![Header Picture](./picture4.png)
-Template Design for Website that sells custom made Rubix Cubes
+Template Design for Website that sells custom made Rubiks Cubes
